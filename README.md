@@ -5,3 +5,4 @@ The Purpose
 * Record daily activity
 * Categorised the problem fund and record the solutions
 * And keeping the version history
+* And access everywhere
